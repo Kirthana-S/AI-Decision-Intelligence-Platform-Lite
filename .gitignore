@@ -4,19 +4,25 @@
 # Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 
-# Jupyter Notebook
+# Virtual Environment
+.venv/
+.env
+
+# Jupyter
 .ipynb_checkpoints/
 
 # VS Code
 .vscode/
 
-# Environment
-.env
-.venv/
+# SQLite
+*.db-journal
 
-# Large data files
+# Large raw data
 data/raw/*.csv
 data/raw/*.xlsx
 
+# Database
 database/*.db
