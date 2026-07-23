@@ -229,8 +229,7 @@ The platform contains six interactive Power BI dashboard pages designed for diff
 
 ### 4. Gaming Analytics
 
-> *(Screenshot will be added here)*
-
+![Gaming Analytics](screenshots/gaming_analytics.png)
 ---
 
 ### 5. Country Analytics
